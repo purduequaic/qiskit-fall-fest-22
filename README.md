@@ -9,11 +9,13 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 --------------------------------
 ## Official Registration
-- The registration is coming soon.
+- Please register at https://purdue.ca1.qualtrics.com/jfe/form/SV_74gAJ3qOBtMEz9s
 
 ## Workshops
-
+Oct 3 Quantum 101, 12:00 - 1:00 pm, ET 115
+Oct 10 Intro to Qiskit, 12:00 - 1:00 pm, ET 115
 ## Hackathon
+Oct 21 - 22, stay tuned.
 
 <br>
 
