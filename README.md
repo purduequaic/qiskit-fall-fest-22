@@ -16,8 +16,12 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 ## Workshops
 - Oct 3 Quantum 101, 12:00 - 1:00 pm, NF 101
 - Oct 10 Intro to Qiskit, 12:00 - 1:00 pm, NF 101
+
+## Learn more about Quantum Computing
+- Please join [IBM Quantum Explorers](http://qisk.it/quantum-explorers), A self-paced gamified quantum learnng journey
+- become [Captain, Space Combatant (Quantum Machine Learning), and Expert Navigator (Quantum Optimization](https://ibm.ent.box.com/v/qe-attendee-guide)
 ## Hackathon
-Oct 21 - 22, stay tuned.
+4 pm Oct 21 - 4 pm, Oct 22, team of 2 - 6, stay tuned.
 
 <br>
 
