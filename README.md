@@ -20,6 +20,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 ## Learn more about Quantum Computing
 - Please join [IBM Quantum Explorers](http://qisk.it/quantum-explorers), a self-paced gamified quantum learnng journey
 - become [Captain, Space Combatant (Quantum Machine Learning), and Expert Navigator (Quantum Optimization)](https://ibm.ent.box.com/v/qe-attendee-guide)
+- read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
 ## Hackathon
 4 pm Oct 21 - 4 pm, Oct 22, team of 2 - 6, stay tuned.
 
