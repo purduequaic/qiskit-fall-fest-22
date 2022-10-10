@@ -15,7 +15,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 ## Workshops
 - Oct 3 Quantum 101, 12:00 - 1:00 pm, NF 101
-- Oct 10 Intro to Qiskit, 12:00 - 1:00 pm, NF 101, see [the repository](https://github.com/qiskit-community/qiskit-presentations/tree/master/2022-02-02_penn_state_workshop)
+- Oct 10 Intro to Qiskit, 12:00 - 1:00 pm, NF 101, see [qiskit-presentation repository](https://github.com/qiskit-community/qiskit-presentations/tree/master/2022-02-02_penn_state_workshop)
 
 ## Learn more about Quantum Computing
 - Please join [IBM Quantum Explorers](http://qisk.it/quantum-explorers), a self-paced gamified quantum learnng journey
