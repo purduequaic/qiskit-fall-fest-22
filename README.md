@@ -22,11 +22,11 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 - become [Captain, Space Combatant (Quantum Machine Learning), and Expert Navigator (Quantum Optimization)](https://ibm.ent.box.com/v/qe-attendee-guide)
 - read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
 ## Hackathon
-4 pm Oct 21 - 4 pm, Oct 23, team of 2 - 5
--- kick off with Hackathon Themee Revleved at 4 pm on Friday, Oct 21, ET 115
--- Winning announced on 4 pm, on Sunday, Oct 23. 
--- One winning team will get the IBM Swags.
--- participating teams will get certificates.
+- 4 pm Oct 21 - 4 pm, Oct 23, team of 2 - 5
+- kick off with Hackathon Themee Revleved at 4 pm on Friday, Oct 21, ET 115
+- the winning teams will be announced on 4 pm, on Sunday, Oct 23. 
+- the first place tem will get the IBM Swags.
+- participating teams will get certificates.
 
 <br>
 
