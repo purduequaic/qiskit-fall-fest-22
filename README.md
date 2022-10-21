@@ -28,7 +28,39 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 - the first place tem will get the IBM Swags.
 - participating teams will get certificates.
 
-<br>
+## Hackathon Theme
+- create a project to help others learn about certain hard principles or concepts of quantum information science, and engineering, or
+- create a project to show how quantum technology can apply to solve hard problem
+
+## Submission and Presentation
+- email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
+- attend and present at 4 pm, on Sunday, Oct 23
+
+## Judging Criteria 
+-  The wiiner announcements are final.
+Originality and Uniqueness (25%)
+•	Compared to what you've seen before, how unique is this project? How interesting do you find it? Did the team attempt something new or difficult?
+
+Usefulness and Complexity (25%)
+•	Will other people be able to use this project? Was the project thoughtful in how it was designed? How functional is the project as of judging?
+
+Quantum Community Benefit (25%)
+•	Will this project help the community at large? Can people use this for research or further develop it? Will this project help others learn and understand quantum computing?
+
+Presentation (25%)
+•	Did the team represent their project well? Was the team able to explain why they made certain decisions? Did the entire team get a chance to speak?
+
+## Hackathon and Challenge Rules
+
+•	All submissions must be built using Qiskit.
+•	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
+•	All submissions must be built using an open source license, if applicable
+•	Projects built are owned by the teams which constructed them
+•	Teams must be at least 2 members, but no more than 4 members.
+•	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
+•	You must submit your project before the provided deadline on October 23rd, 2 PM
+•	Full judging criteria can be found on the next page
+•	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines on the net page
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
