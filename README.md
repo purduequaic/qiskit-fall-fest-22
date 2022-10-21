@@ -52,15 +52,15 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 ## Hackathon and Challenge Rules
 
-•	All submissions must be built using Qiskit.
-•	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
-•	All submissions must be built using an open source license, if applicable
-•	Projects built are owned by the teams which constructed them
-•	Teams must be at least 2 members, but no more than 4 members.
-•	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
-•	You must submit your project before the provided deadline on October 23rd, 2 PM
-•	Full judging criteria can be found on the next page
-•	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines on the net page
+-	All submissions must be built using Qiskit.
+-	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
+-	All submissions must be built using an open source license, if applicable
+-	Projects built are owned by the teams which constructed them
+-	Teams must be at least 2 members, but no more than 4 members.
+-	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
+-	You must submit your project before the provided deadline on October 23rd, 2 PM
+-	Full judging criteria can be found on the next page
+-	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines on the net page
 
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
