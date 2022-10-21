@@ -58,7 +58,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 -	Projects built are owned by the teams which constructed them
 -	Teams must be at least 2 members, but no more than 4 members.
 -	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
--	You must submit your project before the provided deadline on October 23rd, 2 PM
+-	You must submit your project before the provided deadline on October 23rd, 4 PM EDT
 -	Full judging criteria can be found on the next page
 -	Projects will be judged by the organizers following the Guidelines on the net page
 
