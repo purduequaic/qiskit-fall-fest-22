@@ -60,7 +60,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 -	You cannot begin building your project until the Hack-a-thon KICK-OFF on October 21, 4 PM EDT
 -	You must submit your project before the provided deadline on October 23rd, 2 PM
 -	Full judging criteria can be found on the next page
--	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines on the net page
+-	Projects will be judged by the organizers following the Guidelines on the net page
 
 ## Winners
 - First Place
