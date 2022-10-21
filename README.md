@@ -24,7 +24,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 ## Hackathon
 - 4 pm Oct 21 - 4 pm, Oct 23, team of 2 - 5
 - kick off with Hackathon Themee Revleved at 4 pm on Friday, Oct 21, ET 115
-- the winning teams will be announced on 4 pm, on Sunday, Oct 23. 
+- the winning teams will be announced on 4 pm, on Wednesday, Oct 26 at this page
 - the first place tem will get the IBM Swags.
 - participating teams will get certificates.
 
@@ -62,5 +62,9 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 -	Full judging criteria can be found on the next page
 -	Projects will be judged by the Officers of UT Quantum Collective following the Guidelines on the net page
 
+## Winners
+- First Place
+- Second Place
+- Third Place
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
