@@ -37,17 +37,17 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 - attend and present at 4 pm, on Sunday, Oct 23
 
 ## Judging Criteria 
--  The wiiner announcements are final.
-Originality and Uniqueness (25%)
+- The wiiner announcements are final.
+- Originality and Uniqueness (25%)
 •	Compared to what you've seen before, how unique is this project? How interesting do you find it? Did the team attempt something new or difficult?
 
-Usefulness and Complexity (25%)
+- Usefulness and Complexity (25%)
 •	Will other people be able to use this project? Was the project thoughtful in how it was designed? How functional is the project as of judging?
 
-Quantum Community Benefit (25%)
+- Quantum Community Benefit (25%)
 •	Will this project help the community at large? Can people use this for research or further develop it? Will this project help others learn and understand quantum computing?
 
-Presentation (25%)
+- Presentation (25%)
 •	Did the team represent their project well? Was the team able to explain why they made certain decisions? Did the entire team get a chance to speak?
 
 ## Hackathon and Challenge Rules
