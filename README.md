@@ -34,7 +34,7 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 
 ## Submission and Presentation
 - email github public link to Dr. Liu Liud@pfw.edu. README.md should include team members
-- attend and present at 4 pm, on Sunday, Oct 23
+- attend and give a presentation of 7 minuutes plus 3 minute Q & A per team at 4 pm, on Sunday, Oct 23
 
 ## Judging Criteria 
 - The wiiner announcements are final.
