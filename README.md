@@ -63,8 +63,8 @@ The Fall Fest here includes a series of workshops starting Oct 3 and ends with a
 -	Projects will be judged by the organizers following the Guidelines on the net page
 
 ## Winners
-- First Place
-- Second Place
-- Third Place
+- First Place: Praveen Venkatachalam, Furqan Ali Khan, Vijay Anand Pandian
+  Qbit Rotation Simulator (https://github.com/praveen-venkatachalam/qbit_rotation_sim)
+   
 <br><br>
 # [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
